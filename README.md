@@ -65,8 +65,8 @@ D7 = X Y Z
 ### PROGRAM 
      /*
      Program for Endocers and Decoders  and verify its truth table in quartus using Verilog programming.
-     Developed by: 
-     RegisterNumber:  
+     Developed by: Preethi M
+     RegisterNumber:  22000091
      */
      Encoder:
      module endecoder(a,b,c,d0,d1,d2,d3,d4,d5,d6,d7);
